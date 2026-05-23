@@ -1,0 +1,37 @@
+order_id,order_date,region,city,category,product_name,sales_channel,customer_segment,unit_price,quantity,discount_pct,payment_method,sales_amount,cost_amount,profit
+ORD-1001,2026-04-01,North,Delhi,Electronics,Smartphone,Online,Regular,42000,1,5,Card,39900,32000,7900
+ORD-1002,2026-04-02,West,Mumbai,Fashion,Jacket,Store,Premium,3500,3,10,UPI,9450,5400,4050
+ORD-1003,2026-04-02,South,Bengaluru,Groceries,Organic Basket,Online,Regular,1800,4,0,UPI,7200,5200,2000
+ORD-1004,2026-04-03,East,Kolkata,Home Decor,Lamp Set,Store,New,2200,2,5,Cash,4180,2500,1680
+ORD-1005,2026-04-04,North,Chandigarh,Electronics,Bluetooth Speaker,Online,Premium,4800,2,8,Card,8832,5400,3432
+ORD-1006,2026-04-05,West,Pune,Fashion,Sneakers,Online,Regular,2800,2,12,Card,4928,3000,1928
+ORD-1007,2026-04-06,South,Hyderabad,Electronics,Tablet,Store,Regular,25000,1,7,EMI,23250,18500,4750
+ORD-1008,2026-04-06,East,Bhubaneswar,Groceries,Dairy Pack,Store,New,950,5,0,Cash,4750,3400,1350
+ORD-1009,2026-04-07,North,Jaipur,Home Decor,Wall Art,Online,Premium,3200,2,15,UPI,5440,2800,2640
+ORD-1010,2026-04-08,West,Ahmedabad,Electronics,Smart Watch,Online,Regular,9500,2,5,Card,18050,12200,5850
+ORD-1011,2026-04-09,South,Chennai,Fashion,Kurta Set,Store,Regular,2100,4,10,Cash,7560,4200,3360
+ORD-1012,2026-04-10,East,Patna,Groceries,Healthy Snacks,Online,New,650,8,0,UPI,5200,3200,2000
+ORD-1013,2026-04-11,North,Lucknow,Electronics,Laptop,Store,Premium,62000,1,6,EMI,58280,50000,8280
+ORD-1014,2026-04-12,West,Surat,Home Decor,Curtain Set,Store,Regular,1800,3,5,Cash,5130,3000,2130
+ORD-1015,2026-04-12,South,Coimbatore,Groceries,Millet Combo,Online,Premium,1250,5,5,UPI,5937.5,3800,2137.5
+ORD-1016,2026-04-13,East,Ranchi,Fashion,Handbag,Online,New,2600,2,8,Card,4784,2500,2284
+ORD-1017,2026-04-14,North,Delhi,Electronics,Wireless Earbuds,Store,Regular,5500,3,10,Card,14850,9000,5850
+ORD-1018,2026-04-15,West,Mumbai,Groceries,Protein Pack,Online,Premium,2200,3,5,UPI,6270,3900,2370
+ORD-1019,2026-04-16,South,Bengaluru,Home Decor,Desk Organizer,Online,Regular,1500,4,0,UPI,6000,2800,3200
+ORD-1020,2026-04-17,East,Kolkata,Electronics,Gaming Mouse,Store,New,2800,3,12,Cash,7392,4200,3192
+ORD-1021,2026-04-18,North,Amritsar,Fashion,Denim Jeans,Online,Regular,2400,3,10,Card,6480,3600,2880
+ORD-1022,2026-04-19,West,Nagpur,Groceries,Family Essentials,Store,Regular,1400,6,0,Cash,8400,5400,3000
+ORD-1023,2026-04-20,South,Hyderabad,Electronics,Monitor,Online,Premium,14500,2,7,EMI,26970,19000,7970
+ORD-1024,2026-04-21,East,Guwahati,Home Decor,Planter Set,Online,New,1700,3,5,UPI,4845,2400,2445
+ORD-1025,2026-04-22,North,Noida,Groceries,Breakfast Combo,Online,Premium,1100,7,0,UPI,7700,4900,2800
+ORD-1026,2026-04-23,West,Pune,Fashion,Sports T-shirt,Store,New,1200,5,10,Cash,5400,2800,2600
+ORD-1027,2026-04-24,South,Chennai,Electronics,Power Bank,Online,Regular,1800,4,5,Card,6840,4200,2640
+ORD-1028,2026-04-25,East,Bhubaneswar,Fashion,Casual Shirt,Store,Regular,1600,4,8,Cash,5888,3200,2688
+ORD-1029,2026-04-26,North,Delhi,Home Decor,Coffee Table,Online,Premium,8500,1,5,Card,8075,5400,2675
+ORD-1030,2026-04-27,West,Mumbai,Electronics,DSLR Camera,Store,Premium,54000,1,4,EMI,51840,44000,7840
+ORD-1031,2026-04-28,South,Mysuru,Groceries,Fresh Fruit Box,Store,New,900,6,0,Cash,5400,3600,1800
+ORD-1032,2026-04-29,East,Patna,Electronics,Printer,Online,Regular,7800,2,6,Card,14664,9800,4864
+ORD-1033,2026-04-30,North,Jaipur,Fashion,Ethnic Dress,Store,Premium,3900,2,10,UPI,7020,4200,2820
+ORD-1034,2026-05-01,West,Ahmedabad,Home Decor,Bookshelf,Online,Regular,7200,1,5,Card,6840,4300,2540
+ORD-1035,2026-05-02,South,Bengaluru,Electronics,Air Fryer,Online,Premium,9200,2,8,Card,16928,11800,5128
+ORD-1036,2026-05-03,East,Ranchi,Groceries,Kitchen Staples,Store,Regular,1300,5,0,Cash,6500,4100,2400
